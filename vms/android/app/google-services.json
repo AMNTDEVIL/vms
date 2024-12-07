@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142810138013",
+    "project_id": "vendormanagementsystem-3c486",
+    "storage_bucket": "vendormanagementsystem-3c486.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142810138013:android:caea80044ddc5995f49b74",
+        "android_client_info": {
+          "package_name": "com.example.vms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApTy4NNFC-h1l3elpylctVJmTaUygCpVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
